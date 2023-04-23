@@ -3,14 +3,14 @@
 This is a MERN (MongoDB, Express.js, React.js, Node.js) stack ecommerce application that allows users to browse and purchase products online.
 
 ## Table of Contents
-- [Features](URL "title")
-- [Installation](URL "title")
-- [Setup](URL "title")
-- [Run](URL "title")
-- [Usage](URL "title")
-- [Technologies](URL "title")
-- [Demo](URL "title")
-- [Contributing](URL "title")
+- [Features](#features)
+- [Installation](#installation)
+- [Setup](#setup)
+- [Run](#run)
+- [Usage](#usage)
+- [Technologies](#technologies)
+- [Demo](#demo)
+- [Contributing](#contributing)
 
 ### Features
 
