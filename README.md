@@ -68,10 +68,10 @@ As an admin, you can also manage products and users by logging in as an admin us
 1. Sign in using: 
     - Email address: `ram5sasanga@gmail.com`
     - Password: `RaS123@#$`
+    
+This ecommerce application uses the following technologies:
 
 ### Front-end Technologies
-
-This ecommerce application uses the following technologies:
 
 - React.js: front-end library
 - Redux, React-redux, Redux-toolkit: state managing and centralizing
