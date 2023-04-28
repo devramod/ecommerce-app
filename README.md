@@ -4,8 +4,8 @@ This is a MERN (MongoDB, Express.js, React.js, Node.js) stack ecommerce applicat
 
 ## Table of Contents
 - [Features](#features)
-- [Front-end Technologies](#front-end technologies)
-- [Back-end Technologies](#back-end technologies)
+- [Front-end Technologies](#front-end-technologies)
+- [Back-end Technologies](#back-end-technologies)
 - [Setup](#setup)
 - [Run](#run)
 - [Usage](#usage)
