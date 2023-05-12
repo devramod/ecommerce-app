@@ -8,10 +8,14 @@ import routes from "./routes/routes.js";
 import admin from "./routes/admin.js";
 import user from "./routes/user.js";
 
+const corsOptions = {
+  origin: process.env.CLIENT_URL,
+};
+
 // Configuration
 const app = express();
 dotenv.config();
-app.use(cors());
+app.use(cors(corsOptions));
 app.use(express.json());
 app.use(bodyParser.json({ limit: '10mb' }));
 app.use(bodyParser.urlencoded({ extended: true, limit: '10mb' }));
