@@ -13,7 +13,7 @@ const MonthIncome = () => {
   const income = getData.month.monthIncome;
   const { total } = income[0];
   const incomeWith2Decimals = (total / 100).toFixed(2);
-  const percentage = getData.month.incomePercentage;
+  const percentage = getData.month.incomePercentage.toFixed(2);
 
   return (
     <Box
