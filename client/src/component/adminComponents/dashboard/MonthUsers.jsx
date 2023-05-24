@@ -12,7 +12,7 @@ const MonthUsers = () => {
 
   const customers = getData.month.monthUsers;
   const { total } = customers[0]
-  const percentage = getData.month.userPercentage;
+  const percentage = getData.month.userPercentage.toFixed(2);
 
   return (
     <Box
