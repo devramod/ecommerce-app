@@ -12,7 +12,7 @@ const MonthOrders = () => {
 
   const orders = getData.month.monthOrders;
   const { total } = orders[0];
-  const percentage = getData.month.orderPercentage;
+  const percentage = getData.month.orderPercentage.toFixed(2);
 
   return (
     <Box
